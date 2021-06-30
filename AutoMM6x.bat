@@ -79,7 +79,7 @@ echo    NAME        : PSA
 echo    CAR         : PSA EMP2V4
 echo    NUMBER      : CTP#02    
 echo    BRAKES      : Hitachi Brakes Ø48 360x26, MoC Left n°22024200005304 and MoC Right MoC n°22024200004904
-echo    TESTENGINEER: Imen BEN AMOR
+echo    TESTENGINEER: %USERNAME%
 echo    PLACE       : Dy / EYB5
 echo    SYSTEM      : ESP9.3 HP / APB-Mi B-sample
 echo    ECU         : 99 00012 / 0273B71795
