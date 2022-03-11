@@ -77,9 +77,9 @@ echo __________________ADDITIONAL_COMMENT___ROBERT_BOSCH_GMBH___________________
 echo    NAME        : PSA 
 echo    CAR         : PSA EMP2V4
 echo    NUMBER      : CTP#02    
-echo    BRAKES      : Hitachi Brakes O48 360x26, MoC Left nø22024200005304 and MoC Right MoC nø22024200004904
-echo    TESTENGINEER: Imen BEN AMOR
-echo    PLACE       : Dy / EYB5
+echo    BRAKES      : Hitachi Brakes O48 360x26, MoC Left nÃ¸22024200005304 and MoC Right MoC nÃ¸22024200004904
+echo    TESTENGINEER: 
+echo    PLACE       : 
 echo    SYSTEM      : ESP9.3 HP / APB-Mi B-sample
 echo    ECU         : 99 00012 / 0273B71795
 echo    SOFTWARE    : ApplContainer_V0200_BB81940_CSWxBxD5EDxEMP2V4xHP.appl.zip / HP Janv 2021
